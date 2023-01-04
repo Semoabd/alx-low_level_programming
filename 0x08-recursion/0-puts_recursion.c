@@ -1,6 +1,6 @@
 /*
  * File: 0-puts_recursion.c
- * Auth: semo 
+ * Auth: semo
  */
 
 #include "main.h"
