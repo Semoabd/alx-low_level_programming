@@ -1,6 +1,6 @@
 /*
  * 3-factorial.c
- * Auth: semo
+ * Auth: semoabd
  */
 
 #include "main.h"
